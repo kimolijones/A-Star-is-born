@@ -1,9 +1,9 @@
 # A-Star-is-born
 <b>A*STAR Research Attachment Programme – Machine Learning for Materials Discovery (I2R) Abstract</b>
 
-<i>Link to the website: https://opencatalystproject.org/</i>
-<i>Link to the original dataset: https://dl.fbaipublicfiles.com/opencatalystproject/data/is2res_train_val_test_lmdbs.tar.gz</i>
-<i>Link to the errors dataset: https://drive.google.com/file/d/1rCxBDx7mw0YkUfiV60RXWRobuxPgVWLM/view?usp=sharing (should be in the same directory as the repository)</i>
+<i>Link to the website: https://opencatalystproject.org/</i>\n
+<i>Link to the original dataset: https://dl.fbaipublicfiles.com/opencatalystproject/data/is2res_train_val_test_lmdbs.tar.gz</i>\n
+<i>Link to the errors dataset: https://drive.google.com/file/d/1rCxBDx7mw0YkUfiV60RXWRobuxPgVWLM/view?usp=sharing (should be in the same directory as the repository)</i>\n
 
 
 <i>ptable_trends (a script we used to build a heatmap of the elements): https://drive.google.com/file/d/1MafMB_2-uBFPXtdIIysi9ERttm8Krcw1/view?usp=sharing</i>
