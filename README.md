@@ -3,7 +3,7 @@
 
 <i>Link to the website: https://opencatalystproject.org/</i>
 
-<i>Link to the original dataset: https://dl.fbaipublicfiles.com/opencatalystproject/data/is2res_train_val_test_lmdbs.tar.gz</i>
+<i>Link to the training dataset: https://dl.fbaipublicfiles.com/opencatalystproject/data/is2res_train_val_test_lmdbs.tar.gz</i>
 
 <i>Link to the errors dataset: https://drive.google.com/file/d/1rCxBDx7mw0YkUfiV60RXWRobuxPgVWLM/view?usp=sharing (should be in the same directory as the repository)</i>
 
