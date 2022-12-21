@@ -1,9 +1,11 @@
 # A-Star-is-born
-<b>A*STAR Research Attachment Programme – Machine Learning for Materials Discovery (I2R) Abstract</b>
+A*STAR Research Attachment Programme – Machine Learning for Materials Discovery (I2R) Abstract
+-----
 
 It takes decades of trial-and-error experimentation to bring an idea for a novel material from the laboratory to commercial use. We need to accelerate the discovery process because there is a great demand for advanced materials with tailored properties to address acute challenges, e.g. climate change. The recent advancements in algorithms and hardware could provide such accelerants. In this project, the intern will combine high-performance computing, software engineering, physical science-based principles and/or mathematical constraints to accelerate the materials discovery process. They will work with large materials databases and state-of-the-art machine learning tools in Python, e.g. PyTorch+Geometric.
 
-Relevant keywords: Machine learning, materials, physics, chemistry, computing
+<b>Relevant keywords</b>: Machine learning, materials, physics, chemistry, computing
+
 
 Links
 -----
@@ -15,13 +17,20 @@ Some links that are relevant to this project:
 * [ptable_trends](https://github.com/arosen93/ptable_trends) <i>(adapted for this project)</i>
 
 
-<b>Findings</b>
+Findings
+-----
 
-1.
+*
+*
+*
 
-2.
 
-3.
+Dependencies
+-----
 
+The script requires the following dependencies:
+* [Bokeh](http://bokeh.pydata.org/en/latest/)
+* [pandas](http://pandas.pydata.org/)
+* [matplotlib](http://matplotlib.org/)
 
 These packages can be installed using [pip](https://pip.pypa.io/en/stable/) via `pip install -r requirements.txt` in the `A-Star-is-born` base directory.
